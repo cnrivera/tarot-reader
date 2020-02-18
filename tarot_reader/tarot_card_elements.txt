@@ -1,0 +1,78 @@
+0-The Fool | xx
+1-The Magician | xx
+2-The High Priestess | xx
+3-The Empress | xx
+4-The Emperor | xx
+5-The Hierophant | xx
+6-The Lovers | xx
+7-The Chariot | xx
+8-Justice | xx
+9-The Hermit | xx
+10-Wheel of Fortune | xx
+11-Strength | xx
+12-The Hanged Man | XX
+13-Death | XX
+14-Temperance | XX
+15-The Devil | xx
+16-The Tower | xx
+17-The Star | xx
+18-The Moon | xx
+19-The Sun | xx
+20-Judgement | xx
+21-The World | xx
+Ace of Cups | xx
+Two of Cups | xx
+Three of Cups | xx
+Four of Cups | xx
+Five of Cups | xx
+Six of Cups | xx
+Seven of Cups | xx
+Eight of Cups | xx
+Nine of Cups | xx
+Ten of Cups | xx
+Page of Cups | xx
+Knight of Cups | xx
+Queen of Cups | xx
+King of Cups | xx
+Ace of Swords | xx
+Two of Swords | xx
+Three of Swords | xx
+Four of Swords | xx
+Five of Swords | xx
+Six of Swords | xx
+Seven of Swords | xx
+Eight of Swords | xx
+Nine of Swords | xx
+Ten of Swords | xx
+Page of Swords | xx
+Knight of Swords | xx
+Queen of Swords | xx
+King of Swords | xx
+Ace of Wands | xx
+Two of Wands | xx
+Three of Wands | xx
+Four of Wands | xx
+Five of Wands | xx
+Six of Wands | xx
+Seven of Wands | xx
+Eight of Wands | xx
+Nine of Wands | xx
+Ten of Wands | xx
+Page of Wands | xx
+Knight of Wands | xx
+Queen of Wands | xx
+King of Wands | xx 
+Ace of Pentacles | xx
+Two of Pentacles | xx
+Three of Pentacles | xx
+Four of Pentacles | xx
+Five of Pentacles | xx
+Six of Pentacles |  xx
+Seven of Pentacles | xx
+Eight of Pentacles | xx
+Nine of Pentacles | xx
+Ten of Pentacles | xx
+Page of Pentacles | xx
+Knight of Pentacles | xx
+Queen of Pentacles | xx
+King of Pentacles | xx
